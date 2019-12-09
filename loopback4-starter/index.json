@@ -27,7 +27,7 @@
       }
     ],
     "intro": {
-      "courseData": "npm i -g @loopback/cli",
+      "code": "npm i -g @loopback/cli",
       "text": "intro.md"
     },
     "finish": {
