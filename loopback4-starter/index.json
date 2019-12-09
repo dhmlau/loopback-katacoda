@@ -27,7 +27,7 @@
       }
     ],
     "intro": {
-      "code": "npm i -g @loopback/cli",
+      "code": "prestart.sh",
       "text": "intro.md"
     },
     "finish": {
