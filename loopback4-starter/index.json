@@ -27,8 +27,8 @@
       }
     ],
     "intro": {
-      "code": "prestart.sh",
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "setup.sh"
     },
     "finish": {
       "text": "finish.md"
