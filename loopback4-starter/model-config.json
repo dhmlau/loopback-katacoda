@@ -1,0 +1,23 @@
+{
+    "name": "Todo",
+    "base": "Entity",
+    "properties": {
+        "id": {
+            "type": "number",
+            "id": true,
+            "generated": true
+        },
+        "title": {
+            "type": "string",
+            "required": true
+        },
+        "desc": {
+          "type": "string",
+          "required": false
+        },
+        "isComplete": {
+          "type": "boolean",
+          "required": false
+        }
+    }
+  }

@@ -8,3 +8,5 @@ The to-do model has the following properties:
 - `title`: a title
 - `desc`: a description that details the specific task to be accomplished
 - `isComplete`: a boolean flag for whether or not we’ve completed the task
+
+`lb4 model --config ../model-config.json --yes`{{execute}}

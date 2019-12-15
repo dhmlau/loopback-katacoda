@@ -32,6 +32,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "model-config.json",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
