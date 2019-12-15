@@ -34,7 +34,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
+      "host01": [
         {
           "file": "model-config.json",
           "target": "~/"
